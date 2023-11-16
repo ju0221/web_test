@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="56" viewBox="0 0 39 56">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_715" data-name="사각형 715" width="39" height="25" transform="translate(-0.282 -0.34)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_498" data-name="그룹 498" transform="translate(-8763 -10173)">
+    <g id="마스크_그룹_71" data-name="마스크 그룹 71" transform="translate(8763.282 10195.34)" clip-path="url(#clip-path)">
+      <g id="사각형_714" data-name="사각형 714" transform="translate(-0.282 -16.34)" fill="none" stroke="#3617ce" stroke-width="2">
+        <rect width="36" height="40" rx="18" stroke="none"/>
+        <rect x="1" y="1" width="34" height="38" rx="17" fill="none"/>
+      </g>
+    </g>
+    <g id="사각형_716" data-name="사각형 716" transform="translate(8770 10173)" fill="#fff" stroke="#303030" stroke-width="2">
+      <rect width="22" height="39" rx="11" stroke="none"/>
+      <rect x="1" y="1" width="20" height="37" rx="10" fill="none"/>
+    </g>
+    <rect id="사각형_717" data-name="사각형 717" width="2" height="9" transform="translate(8780 10219)" fill="#3617ce"/>
+    <rect id="사각형_718" data-name="사각형 718" width="2" height="16" rx="1" transform="translate(8773 10229) rotate(-90)" fill="#3617ce"/>
+    <rect id="사각형_719" data-name="사각형 719" width="2" height="18" transform="translate(8772 10194) rotate(-90)" fill="#303030"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.098" height="129.238" viewBox="0 0 113.098 129.238">
+  <g id="그룹_501" data-name="그룹 501" transform="translate(-8573.262 -10148)">
+    <g id="그룹_499" data-name="그룹 499" transform="translate(8573.262 10148)">
+      <g id="그룹_190" data-name="그룹 190" transform="translate(0 0)">
+        <g id="그룹_169" data-name="그룹 169" transform="translate(0 0)">
+          <g id="Rectangle" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5">
+            <path d="M6,0H71.221a6,6,0,0,1,6,6V110.238a19,19,0,0,1-19,19H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" stroke="none"/>
+            <path d="M6,2.5H71.221a3.5,3.5,0,0,1,3.5,3.5V110.238a16.5,16.5,0,0,1-16.5,16.5H6a3.5,3.5,0,0,1-3.5-3.5V6A3.5,3.5,0,0,1,6,2.5Z" fill="none"/>
+          </g>
+          <rect id="Rectangle-2" data-name="Rectangle" width="71.858" height="5" transform="translate(2.681 105.107)" fill="#fff"/>
+          <rect id="Rectangle-3" data-name="Rectangle" width="14.479" height="2.681" rx="1.341" transform="translate(31.371 116.214)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle-4" data-name="Rectangle" width="47.191" height="5" rx="2.5" transform="translate(8587.473 10183.775)" fill="#fff"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="47.191" height="5" rx="2.5" transform="translate(8587.473 10199.327)" fill="#fff"/>
+    <rect id="Rectangle-6" data-name="Rectangle" width="47.191" height="5" rx="2.5" transform="translate(8587.473 10214.878)" fill="#fff"/>
+    <rect id="Rectangle-7" data-name="Rectangle" width="75.612" height="5" rx="2.5" transform="translate(8573.262 10163.397)" fill="#fff"/>
+    <g id="tap_1_" data-name="tap (1)" transform="translate(8611.872 10189.756)">
+      <path id="Path" d="M58.47,15.246,46.246,1.813a6.223,6.223,0,0,0-8.8.02,6.085,6.085,0,0,0-1.573,2.689,6.228,6.228,0,0,0-9.757,3.248,6.23,6.23,0,0,0-8.176.566,6.153,6.153,0,0,0-1.561,2.624L10.617,5.2a6.223,6.223,0,0,0-8.8,8.8L23.95,36.131,10.822,38.192A7.282,7.282,0,0,0,4.6,45.367a4.883,4.883,0,0,0,4.877,4.877H40.13a17.763,17.763,0,0,0,12.643-5.237l5.114-5.114a17.859,17.859,0,0,0,.582-24.646Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path-2" data-name="Path" d="M52.338,34.352l-5.114,5.114a14.534,14.534,0,0,1-10.345,4.285H6.224A1.626,1.626,0,0,1,4.6,42.125a4.022,4.022,0,0,1,3.456-3.96l16.3-2.562a1.624,1.624,0,0,0,.9-2.754L.864,8.457a2.972,2.972,0,0,1,4.2-4.2L21.333,20.519a1.625,1.625,0,1,0,2.3-2.3l-6.642-6.642a2.972,2.972,0,0,1,4.2-4.2l6.645,6.645a1.625,1.625,0,1,0,2.3-2.3L26.739,8.324a2.972,2.972,0,0,1,4.2-4.2L34.35,7.527c.007,0,0,0,0,0l0,0,0,0,0,0h0a0,0,0,0,1,0,0,1.626,1.626,0,0,0,2.266-2.331l-.14-.14A2.973,2.973,0,0,1,40.644.814L52.816,14.192a14.612,14.612,0,0,1-.478,20.16Z" transform="translate(3.251 3.242)" fill="#3617ce" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="그룹_500" data-name="그룹 500" transform="translate(8703.055 10102.764) rotate(90)">
+      <g id="그룹_77" data-name="그룹 77" transform="translate(56.561 28.32)">
+        <g id="그룹_76" data-name="그룹 76" transform="translate(0 0)">
+          <path id="패스_105" data-name="패스 105" d="M141.577,211.789a20.325,20.325,0,0,1,27.351,0" transform="translate(-141.577 -206.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <path id="패스_107" data-name="패스 107" d="M146.354,216.459a9.545,9.545,0,0,1,14.267,0" transform="translate(-139.812 -204.493)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+      </g>
+      <path id="패스_109" data-name="패스 109" d="M141.577,213.953a31.2,31.2,0,0,1,40.472,0" transform="translate(-91.577 -187.304)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>
